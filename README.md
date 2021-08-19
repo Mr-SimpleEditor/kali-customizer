@@ -7,3 +7,5 @@ git clone https://github.com/Mr-SimpleEditor/kali-customizer.git
 cd kali-customizer
 chmod +x script.sh
 bash script.sh
+
+Thanks
