@@ -1,4 +1,5 @@
-#!bin/bash
+#!/bin/bash
+
 clear
 yl='\e[1;33m'
 echo " "
